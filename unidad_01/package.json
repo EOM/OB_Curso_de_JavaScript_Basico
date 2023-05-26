@@ -1,0 +1,12 @@
+{
+  "name": "unidad_01",
+  "version": "1.0.0",
+  "description": "**Enunciado del ejercicio:**",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1": "echo Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
