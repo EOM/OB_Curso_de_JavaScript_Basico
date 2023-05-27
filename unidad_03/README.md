@@ -16,6 +16,14 @@ npm run while
 npm run break
 ```
 ### Ejercicio Print de Pantalla:
+factorial-for.js
+
 ![Print de pantall ejercicio](img.png)
+
+factorial-while.js
+
 ![Print de pantall ejercicio](img_1.png)
+
+factorial-break.js
+
 ![Print de pantall ejercicio](img_2.png)
