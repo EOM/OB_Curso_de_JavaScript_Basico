@@ -1,0 +1,14 @@
+{
+  "name": "unidad_03",
+  "version": "1.0.0",
+  "description": "**Ejercicio:**",
+  "main": "factorial-for.js",
+  "scripts": {
+    "for": " node factorial-for.js",
+    "while": " node factorial-while.js",
+    "break": " node factorial-break.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
