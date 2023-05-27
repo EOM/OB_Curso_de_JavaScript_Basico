@@ -1,0 +1,12 @@
+{
+  "name": "unidad_06",
+  "version": "1.0.0",
+  "description": "**Ejercicio:**",
+  "main": "main.js",
+  "scripts": {
+    "main": " node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
