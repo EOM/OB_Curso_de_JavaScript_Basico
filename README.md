@@ -10,3 +10,5 @@ OpenBootcamp Curso de JavaScript Basico
 - [Unidad 6 - Ejercicio 1](unidad_06)
 - [Unidad 7 - Ejercicios](unidad_07)
 - [Unidad 8 - Ejercicios 1](unidad_08)
+- [Unidad 9 - Ejercicios 1](unidad_09)
+- [Unidad 10 - Ejercicios 1](unidad_10)
