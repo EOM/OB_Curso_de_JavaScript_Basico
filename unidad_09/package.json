@@ -1,0 +1,15 @@
+{
+  "name": "unidad_08",
+  "version": "1.0.0",
+  "description": "**Ejercicio:**",
+  "main": "main.js",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.9.0"
+  }
+}
