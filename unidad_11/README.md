@@ -1,5 +1,5 @@
 # OB_Curso_de_JavaScript_Basico
-## Unidad 6 - Ejercicio 1
+## Unidad 11 - Ejercicio 1
 
 **Enunciado del ejercicio:**
 
