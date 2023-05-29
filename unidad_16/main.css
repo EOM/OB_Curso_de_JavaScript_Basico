@@ -1,0 +1,28 @@
+#contenedor {
+    display: flex;
+}
+
+.seccion {
+    flex: 2;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
+.papelera {
+    flex: 2;
+    width: 100px;
+    height: 100px;
+    background-color: #f7f7f7;
+    border: 2px dashed #999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fragmento {
+    padding: 5px;
+    background-color: #d9d9d9;
+    margin-bottom: 5px;
+    cursor: move;
+}
