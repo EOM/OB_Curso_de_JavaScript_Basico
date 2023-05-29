@@ -1,0 +1,13 @@
+{
+  "name": "unidad_14",
+  "version": "1.0.0",
+  "description": "**Ejercicio:**",
+  "main": "main.js",
+  "scripts": {
+    "main": "node main.js",
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
