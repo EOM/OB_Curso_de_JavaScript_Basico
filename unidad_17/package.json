@@ -1,0 +1,12 @@
+{
+  "name": "unidad_17",
+  "version": "1.0.0",
+  "description": "**Ejercicio:**",
+  "main": "mapa.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
